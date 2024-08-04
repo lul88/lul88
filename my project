@@ -1,0 +1,6 @@
+ cd /mnt/data/my_project
+git init
+This is an example file.
+git add example.txt
+git commit -m "Initial commit with example.txt"
+
